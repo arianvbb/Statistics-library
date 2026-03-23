@@ -11,9 +11,13 @@ This was the 3rd evaluation of my month of training which was done after two wee
 
 ## 🤔The Process 
 
+I realized at the very beginning I would make a simple UI and have all the calculations be done in their own functions, however something I didn't realize was that the start was suprisingly easy. The difficult part was optimizing the code and setting up more difficult calculations, like with the median function I need to pass the vector as an argument by value and not reference so I could sort it and go to the middle. I also realized the process of allowing the user to select a row was super difficult, mainly because I didn't know any easy way to do it. So my solution was improvised and a little rough but fully functional.
 
+## 📚My takeaways
 
-## 📚My takeaways 
+My first time using templates properly and it was very educational. I also developed a deeper understanding of syntax and concepts as passing my reference, const or not, et cetera.
+
+I also learnt something which I kinda new, I just realized it, a simple architecture is key for a project with a timelimit. Make a super basic working prototype and then improve it.
 
 
 ## 🚀Running the project 
