@@ -27,3 +27,4 @@ I also learnt something which I kinda new, I just realized it, a simple architec
 3. Run your code.
 
 ## 🍿Video
+https://github.com/user-attachments/assets/92d1a36f-95c2-4800-bbe5-512cf307c7c9
